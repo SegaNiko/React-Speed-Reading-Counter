@@ -1,0 +1,11 @@
+.btn-position {
+  margin: 0 auto;
+}
+.link {
+  text-decoration: none;
+  color: black;
+
+  &:hover {
+    color: white;
+  }
+}

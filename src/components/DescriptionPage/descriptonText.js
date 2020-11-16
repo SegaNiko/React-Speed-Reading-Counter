@@ -1,0 +1,1 @@
+export const descriptionText = `You will be given one page from a random book. After reading, press the STOP button. But before that, enter the number of pages in your book and when you are ready for the test press START READ`;
